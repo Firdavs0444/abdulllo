@@ -1,0 +1,177 @@
+header {
+    display: flex;
+    gap: 467px;
+    margin-top: 60px;
+    margin-left: 136px;
+}
+
+.header_nav2 {
+    display: flex;
+    font-size: 18px;
+    gap: 50px;
+}
+
+.header_button1 {
+    width: 120px;
+    height: 50px;
+    background-color: #FF7A50;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+
+a:hover {
+    color: orange;
+}
+
+.main_text1 {
+    font-size: 66px;
+    width: 530px;
+}
+
+.main_span1 {
+    color: #FF7A50;
+}
+
+.main_text2 {
+    font-size: 20px;
+    width: 513px;
+    color: #363853;
+}
+
+.main_button1 {
+    background-color: #FF7A50;
+    width: 163px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+.main_div3 {
+    display: flex;
+    margin-left: 95px;
+}
+
+main {
+    margin-top: 213px;
+    position: relative;
+}
+
+.main_text4 {
+    width: 449px;
+    font-size: 20px;
+}
+
+.main_div5 {
+    display: flex;
+}
+
+.main_span2 {
+    color: #FF7A50;
+}
+
+.main_text3 {
+    font-size: 36px;
+    width: 384px;
+}
+
+.main_div4 {
+    margin-top: 200px;
+    gap: 100px;
+}
+
+.main_div8 {
+    padding-bottom: 70px;
+}
+
+.main_div7 {
+    padding-bottom: 70px;
+}
+
+.main_div6 {
+    padding-bottom: 70px;
+}
+
+.main_text5 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.main_span3 {
+    color: #FF7A50;
+}
+
+.main_div9 {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main_text6 {
+    font-size: 24px;
+}
+
+.main_div10 {
+    display: flex;
+    color: gray;
+}
+
+.main_img1 {
+    width: 22px;
+    height: 22px;
+}
+
+.main_text8 {
+    font-size: 20px;
+    width: 538px;
+    color: grey;
+}
+
+.main_div11 {
+    display: flex;
+    padding-top: 162px;
+    margin-left: 200px;
+}
+
+.main_span4 {
+    color: #FF7A50;
+}
+
+.main_div12 {
+    padding-top: 100px;
+}
+
+footer {
+    width: 1170px;
+    height: 312px;
+    background-color: #FF7A50;
+    border-radius: 20px;
+    position: relative;
+    position: absolute;
+    top: 3110px;
+    left: 180px;
+}
+
+.main_text9{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+.main_input1{
+    width: 838px;
+    height: 78px;
+    margin-left: 160px;
+    border-radius: 70px;
+}
+
+.footer_button1{
+    width: 191px;
+    height: 58px;
+    background-color: #FF7A50;
+    border-radius: 70px;
+    color: white;
+    position: absolute;
+    left: 800px;
+    bottom: 140px;
+}
